@@ -25,6 +25,7 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.saveactions" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -42,7 +43,7 @@
       <workItem from="1605274101869" duration="869000" />
       <workItem from="1605364748611" duration="7401000" />
       <workItem from="1605430385115" duration="2427000" />
-      <workItem from="1605453512439" duration="885000" />
+      <workItem from="1605453512439" duration="1517000" />
     </task>
     <servers />
   </component>
