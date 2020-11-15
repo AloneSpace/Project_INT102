@@ -1,0 +1,25 @@
+html, body {
+
+}
+
+section.header {
+    background: #ffffff url("../img/background.jpg") no-repeat center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+}
+
+section.header > div.title {
+    color: #ffffff;
+    font-size: xx-large;
+    text-align: center;
+    transition: ease-out .5s;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
