@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4714e9f-ba1b-498d-856a-088c388b574d" name="Default Changelist" comment="" />
+    <list default="true" id="b4714e9f-ba1b-498d-856a-088c388b574d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/about/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/career/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/education/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ref.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/career.html" beforeDir="false" afterPath="$PROJECT_DIR$/career.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/showcase.html" beforeDir="false" afterPath="$PROJECT_DIR$/showcase.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +45,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
   <component name="ProjectId" id="1jxtCZsLrTpBPfpmqHXt6jHjmPw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,7 +58,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/cafe" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.saveactions" />
@@ -44,24 +79,52 @@
       <workItem from="1605364748611" duration="7401000" />
       <workItem from="1605430385115" duration="2427000" />
       <workItem from="1605453512439" duration="1517000" />
+      <workItem from="1605456179036" duration="1150000" />
+      <workItem from="1605540756198" duration="1627000" />
+      <workItem from="1605580312537" duration="5311000" />
+      <workItem from="1605710096667" duration="273000" />
+      <workItem from="1605756810971" duration="5898000" />
+      <workItem from="1605801052692" duration="4640000" />
+      <workItem from="1605858890729" duration="2863000" />
+      <workItem from="1605862801325" duration="1661000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="599" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605095601108">
       <screen x="0" y="27" width="1920" height="965" />
     </state>
     <state x="599" y="311" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.965@0.27.1920.965" timestamp="1605095601108" />
-    <state x="743" y="268" key="FileChooserDialogImpl" timestamp="1605274369344">
+    <state x="743" y="268" width="434" height="488" key="FileChooserDialogImpl" timestamp="1605863870750">
       <screen x="0" y="27" width="1920" height="965" />
     </state>
-    <state x="743" y="268" key="FileChooserDialogImpl/0.27.1920.965@0.27.1920.965" timestamp="1605274369344" />
+    <state x="743" y="268" width="434" height="488" key="FileChooserDialogImpl/0.27.1920.965@0.27.1920.965" timestamp="1605863870750" />
     <state x="486" y="146" key="SettingsEditor" timestamp="1605372340356">
       <screen x="0" y="27" width="1920" height="965" />
     </state>
     <state x="486" y="146" key="SettingsEditor/0.27.1920.965@0.27.1920.965" timestamp="1605372340356" />
+    <state x="719" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605456284426">
+      <screen x="0" y="27" width="1920" height="965" />
+    </state>
+    <state x="719" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.965@0.27.1920.965" timestamp="1605456284426" />
+    <state x="623" y="238" width="672" height="678" key="search.everywhere.popup" timestamp="1605763288725">
+      <screen x="0" y="27" width="1920" height="965" />
+    </state>
+    <state x="623" y="238" width="672" height="678" key="search.everywhere.popup/0.27.1920.965@0.27.1920.965" timestamp="1605763288725" />
   </component>
 </project>

@@ -29,6 +29,7 @@
 }
 
 .card-text p {
+    margin: 10px;
     color: grey;
     font-size: 15px;
     font-weight: 300;

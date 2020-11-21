@@ -1,0 +1,14 @@
+.even-edu {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(0, 0, 0, 0.02);
+    padding: 50px;
+    transition: all .75s;
+}
+
+.odd-edu {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+    transition: all .75s;
+}

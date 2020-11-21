@@ -1,0 +1,19 @@
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.topic {
+    color: orange;
+}
+
+.topic > span {
+    color: black;
+}
+
+.picture > img {
+    margin-top: 30px;
+    margin-left: 100px;
+    border-radius: 50%;
+}

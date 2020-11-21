@@ -1,5 +1,7 @@
-html, body {
+@import url('https://fonts.googleapis.com/css2?family=Athiti&display=swap');
 
+html, body {
+    font-family: 'Athiti', sans-serif;
 }
 
 section.header {
@@ -8,6 +10,7 @@ section.header {
     justify-content: center;
     align-items: center;
     height: 350px;
+    /*margin-bottom: 15px;*/
 }
 
 section.header > div.title {
@@ -15,11 +18,46 @@ section.header > div.title {
     font-size: xx-large;
     text-align: center;
     transition: ease-out .5s;
+    padding-top: 60px;
 }
 
 .container {
     display: flex;
-    align-items: center;
+    align-content: center;
     justify-content: center;
+}
+
+.img-edu > img {
+    transition: ease-out .5s;
+}
+
+.banner {
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+    padding-bottom: 220px;
+}
+
+.banner p {
+    font-size: 25px;
+    margin-bottom: 0;
+}
+
+.banner h1 {
+    margin: 0;
+    font-size: 144px;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.banner button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    border: none;
+    padding: 13px 20px;
+    border-radius: 50px;
 }
 

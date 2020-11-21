@@ -1,0 +1,22 @@
+section.career {
+    background: #ffffff url("../../img/career/ml_background.jpg") no-repeat center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+}
+
+.career_info {
+    display: block;
+    justify-content: start;
+    align-items: start;
+    color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.career_info > h1 {
+    font-size: 48px;
+}
+
