@@ -2,10 +2,7 @@
 
 html, body {
     font-family: 'Athiti', sans-serif;
-}
-
-section {
-    width: 100vw;
+    margin: 0;
 }
 
 section.header {
