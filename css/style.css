@@ -4,6 +4,10 @@ html, body {
     font-family: 'Athiti', sans-serif;
 }
 
+section {
+    width: 100vw;
+}
+
 section.header {
     background: #ffffff url("../img/background.jpg") no-repeat center;
     display: flex;
@@ -25,39 +29,7 @@ section.header > div.title {
     display: flex;
     align-content: center;
     justify-content: center;
+    margin-top: 50px;
 }
 
-.img-edu > img {
-    transition: ease-out .5s;
-}
-
-.banner {
-    color: white;
-    text-align: center;
-    margin-top: 200px;
-    padding-bottom: 220px;
-}
-
-.banner p {
-    font-size: 25px;
-    margin-bottom: 0;
-}
-
-.banner h1 {
-    margin: 0;
-    font-size: 144px;
-    color: white;
-    text-align: center;
-    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
-}
-
-.banner button {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 20px;
-    border: none;
-    padding: 13px 20px;
-    border-radius: 50px;
-}
 

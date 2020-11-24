@@ -1,10 +1,10 @@
 section.career {
-    background: #ffffff url("../../img/career/ml_background.jpg") no-repeat center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../img/career/ml_background.jpg");
     background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 350px;
+    height: 600px;
 }
 
 .career_info {

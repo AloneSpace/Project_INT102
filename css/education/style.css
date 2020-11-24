@@ -12,3 +12,15 @@
     padding: 50px;
     transition: all .75s;
 }
+
+h4 span {
+    font-weight: normal;
+}
+
+.img-edu img {
+    border-radius: 70%;
+}
+
+.content {
+    margin-top: 100px;
+}

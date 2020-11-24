@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Athiti&display=swap');
+
+html, body {
+    font-family: 'Athiti', sans-serif;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(7, 6, 92, 1) 25%, rgba(109, 9, 121, 1) 52%, rgba(0, 212, 255, 1) 83%);
+}
+
+.banner {
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+    padding-bottom: 220px;
+    transition: all .5s;
+}
+
+.banner h2 {
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+.banner h1 {
+    margin: 0;
+    font-size: 144px;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.banner button {
+    display: flex;
+    font-size: x-large;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    border: none;
+    padding: 30px 30px;
+    border-radius: 50px;
+    transition: 0.5s ease;
+}
+
+.banner button:hover {
+    transform: scale(1.2);
+    color: white;
+    background-color: rgba(247, 15, 65, 0.5);
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.6);
+}
+
+.menu a button {
+    display: inline;
+    margin: 10px;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}

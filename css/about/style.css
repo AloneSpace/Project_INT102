@@ -2,6 +2,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url("../../img/about/background.jpeg");
+    background-size: cover;
 }
 
 .topic {
@@ -10,6 +12,10 @@
 
 .topic > span {
     color: black;
+}
+
+.info {
+    margin-left: 200px;
 }
 
 .picture > img {
