@@ -19,10 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4714e9f-ba1b-498d-856a-088c388b574d" name="Default Changelist" comment="- ลบ image ที่ไม่จำเป็น">
+    <list default="true" id="b4714e9f-ba1b-498d-856a-088c388b574d" name="Default Changelist" comment="- เสร็จแล้วมั้ง">
+      <change afterPath="$PROJECT_DIR$/css/skill/progressbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skill.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/career.html" beforeDir="false" afterPath="$PROJECT_DIR$/career.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/about/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/about/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/card.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/education.html" beforeDir="false" afterPath="$PROJECT_DIR$/education.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ref.html" beforeDir="false" afterPath="$PROJECT_DIR$/ref.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/showcase.html" beforeDir="false" afterPath="$PROJECT_DIR$/showcase.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +42,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -46,6 +56,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
@@ -82,7 +93,9 @@
       <workItem from="1606064521508" duration="2645000" />
       <workItem from="1606139612220" duration="5259000" />
       <workItem from="1606188482816" duration="4873000" />
-      <workItem from="1606212580374" duration="2071000" />
+      <workItem from="1606212580374" duration="6129000" />
+      <workItem from="1606233175888" duration="6601000" />
+      <workItem from="1606287641559" duration="1396000" />
     </task>
     <task id="LOCAL-00001" summary="- Update เยอะ">
       <created>1605948682999</created>
@@ -119,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606193146956</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="- เสร็จแล้วมั้ง">
+      <created>1606214671349</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606214671349</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,29 +161,34 @@
     <MESSAGE value="- Update เยอะ" />
     <MESSAGE value="- เสร็จทั้งหมดเหลือแต่ Ref" />
     <MESSAGE value="- ลบ image ที่ไม่จำเป็น" />
-    <option name="LAST_COMMIT_MESSAGE" value="- ลบ image ที่ไม่จำเป็น" />
+    <MESSAGE value="- เสร็จแล้วมั้ง" />
+    <option name="LAST_COMMIT_MESSAGE" value="- เสร็จแล้วมั้ง" />
   </component>
   <component name="WindowStateProjectService">
     <state x="599" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605095601108">
       <screen x="0" y="27" width="1920" height="965" />
     </state>
     <state x="599" y="311" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.965@0.27.1920.965" timestamp="1605095601108" />
-    <state x="743" y="268" width="434" height="488" key="FileChooserDialogImpl" timestamp="1605863870750">
+    <state x="743" y="268" width="434" height="488" key="FileChooserDialogImpl" timestamp="1606234258892">
       <screen x="0" y="27" width="1920" height="965" />
     </state>
-    <state x="743" y="268" width="434" height="488" key="FileChooserDialogImpl/0.27.1920.965@0.27.1920.965" timestamp="1605863870750" />
+    <state x="743" y="268" width="434" height="488" key="FileChooserDialogImpl/0.27.1920.965@0.27.1920.965" timestamp="1606234258892" />
     <state x="486" y="146" key="SettingsEditor" timestamp="1605372340356">
       <screen x="0" y="27" width="1920" height="965" />
     </state>
     <state x="486" y="146" key="SettingsEditor/0.27.1920.965@0.27.1920.965" timestamp="1605372340356" />
-    <state x="555" y="244" key="Vcs.Push.Dialog.v2" timestamp="1606193151442">
+    <state x="555" y="244" width="810" height="537" key="Vcs.Push.Dialog.v2" timestamp="1606214676002">
       <screen x="0" y="27" width="1920" height="965" />
     </state>
-    <state x="555" y="244" key="Vcs.Push.Dialog.v2/0.27.1920.965@0.27.1920.965" timestamp="1606193151442" />
+    <state x="555" y="244" width="810" height="537" key="Vcs.Push.Dialog.v2/0.27.1920.965@0.27.1920.965" timestamp="1606214676002" />
     <state x="719" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605456284426">
       <screen x="0" y="27" width="1920" height="965" />
     </state>
     <state x="719" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.965@0.27.1920.965" timestamp="1605456284426" />
+    <state x="620" y="233" key="run.anything.popup" timestamp="1606239761961">
+      <screen x="0" y="27" width="1920" height="965" />
+    </state>
+    <state x="620" y="233" key="run.anything.popup/0.27.1920.965@0.27.1920.965" timestamp="1606239761961" />
     <state x="623" y="238" width="672" height="678" key="search.everywhere.popup" timestamp="1605763288725">
       <screen x="0" y="27" width="1920" height="965" />
     </state>

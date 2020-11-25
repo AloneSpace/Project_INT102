@@ -23,3 +23,18 @@
     margin-left: 100px;
     border-radius: 50%;
 }
+
+
+.social a {
+    padding-right: 20px;
+    transition: 0.5s ease;
+}
+
+.social a img {
+    transition: 0.5s ease;
+}
+
+.social a img:hover {
+    transform: scale(1.5);
+}
+

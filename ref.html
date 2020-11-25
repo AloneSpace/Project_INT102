@@ -16,6 +16,7 @@
         <li><a href="index.html">Home</a></li>
         <li><a href="about.html">About</a></li>
         <li><a href="career.html">Career</a></li>
+        <li><a href="skill.html">Skill</a></li>
         <li><a href="education.html">Education</a></li>
         <li><a href="showcase.html">Showcase</a></li>
         <li><a class="active" href="#">Reference</a></li>
@@ -30,36 +31,69 @@
         <tr>
             <th>Property</th>
             <th>Meaning</th>
+            <th>Sample</th>
         </tr>
         </thead>
         <tbody>
         <tr>
+            <td>@import</td>
+            <td>การนำเข้า CSS แบบ External เมื่อเราเขียน CSS ไปเรื่อยๆไฟล์จะใหญ่แล้วใช้งานยาก เลยต้องเขียนแยกแต่ละตัว
+            </td>
+            <td>@import url('https://fonts.googleapis.com/css2?family=Athiti&display=swap');</td>
+        </tr>
+        <tr>
             <td>transition</td>
             <td>กำหนดเวลาในการทำงานของ Element</td>
+            <td>transition: ease-out .5s;</td>
         </tr>
         <tr>
             <td>transform</td>
             <td>การปรับตำแหน่งของ Element</td>
+            <td>transform: scale(1.2);</td>
         </tr>
         <tr>
             <td>box-shadow</td>
             <td>การสร้างเงาเพื่อสร้างมิติให้แก่วัตถุ</td>
+            <td>box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.9);ุ</td>
         </tr>
         <tr>
-            <td>-webkit-transition</td>
+            <td>-webkit</td>
             <td>เป็นเครื่องมือแสดงผลเว็บเบราว์เซอร์ HTML / CSS สำหรับ Safari / Chrome</td>
+            <td>-webkit-transition: background-color 1000ms linear;</td>
         </tr>
         <tr>
             <td>grid-template-columns</td>
             <td>เป็นการแบ่งวัตถุที่คั่นด้วยช่องว่าง แต่ละค่าระบุขนาดของคอลัมน์ที่เกี่ยวข้อง</td>
+            <td>grid-template-columns: 1fr 1fr 1fr;</td>
         </tr>
         <tr>
             <td>grid-template-rows</td>
-            <td>เป็นการแบ่งวัตถุที่คั่นด้วยช่องว่าง แต่ละค่าระบุขนาดของคอลัมน์ที่เกี่ยวข้อง</td>
+            <td>เป็นการแบ่งวัตถุที่คั่นด้วยช่องว่าง แต่ละค่าระบุขนาดของแถวที่เกี่ยวข้อง</td>
+            <td>grid-template-rows: 1fr;</td>
+        </tr>
+        <tr>
+            <td>grid-template-areas</td>
+            <td>ทำการเพิ่มคุณสมบัติ grid-template-areas ลงในคอนเทนเนอร์กริด
+                โดยคุณสมบัตินี้จะช่วยให้คุณสามารถจัดเรียงเซลล์ในตารางของคุณได้
+            </td>
+            <td>grid-template-areas: "image" "text" "stats";</td>
+        </tr>
+        <tr>
+            <td>grid-area</td>
+            <td>ในเซลล์ตารางและให้แต่ละชื่อแยกกัน ในตัวอย่างจะใช้แท็กชื่อ “header”, “left”, “main”, “right”
+                และ “footer”
+            </td>
+            <td>grid-area: image;</td>
         </tr>
         <tr>
             <td>flex-direction</td>
             <td>ไว้สำหรับบอกว่าเราจะให้ Item มันเรียงยังไง เป็นแถว หรือ เป็นหลัก</td>
+            <td>flex-direction: column;</td>
+        </tr>
+        <tr>
+            <td>cursor</td>
+            <td>ช่วยให้เราสามารถใส่รูปแบบให้กับ Cursor ได้หลายแบบ</td>
+            <td>cursor: pointer;</td>
         </tr>
         </tbody>
     </table>

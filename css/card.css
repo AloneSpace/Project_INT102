@@ -40,7 +40,7 @@
     font-size: 28px;
 }
 
-.card-stats {
+.card-footer {
     grid-area: stats;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -50,7 +50,7 @@
     background: rgba(255, 7, 110, 0.2);
 }
 
-.card-stats .stat {
+.card-footer .icon {
     display: flex;
     justify-content: center;
     flex-direction: column;
